@@ -1,0 +1,3 @@
+<?php
+$actionClient->listeClients($pdo);
+?>
